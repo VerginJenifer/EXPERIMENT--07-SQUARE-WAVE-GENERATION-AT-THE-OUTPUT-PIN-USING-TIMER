@@ -102,7 +102,9 @@ Step14. click on debug and simulate using simulation as shown below
 
 
 ## Output screen shots of proteus  :
- 
+
+ <img width="1373" height="874" alt="image" src="https://github.com/user-attachments/assets/fe5dab42-58d3-4478-902b-68ea651712e5" />
+
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
