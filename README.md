@@ -105,7 +105,11 @@ Step14. click on debug and simulate using simulation as shown below
 
  <img width="1373" height="874" alt="image" src="https://github.com/user-attachments/assets/fe5dab42-58d3-4478-902b-68ea651712e5" />
 
- 
+ <img width="1373" height="873" alt="image" src="https://github.com/user-attachments/assets/14f65172-7f8c-4408-861a-671ecc55df33" />
+
+ <img width="1373" height="873" alt="image" src="https://github.com/user-attachments/assets/0954941f-7071-409d-b160-70a68663398a" />
+
+
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
 
